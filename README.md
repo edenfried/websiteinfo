@@ -1,4 +1,5 @@
 # websiteinfo
+http://edenfried.com/how-to-make-a-website/
 
 echo "# websiteinfo" >> README.md
 git init
